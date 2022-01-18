@@ -6,6 +6,10 @@ sites:
     url: https://openfmri.org
   - name: Cognitive Atlas
     url: https://cognitiveatlas.org
+  - name: NeuroVault
+    url: https://neurovault.org
+  - name: Experiment Factory
+    url: https://expfactory.org
 assignees:
   - rwblair
   - effigies
