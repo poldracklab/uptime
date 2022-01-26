@@ -22,18 +22,20 @@
     "url": "https://cognitiveatlas.org",
     "icon": "https://favicons.githubusercontent.com/cognitiveatlas.org",
     "slug": "cognitive-atlas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 285,
-    "timeWeek": 367,
-    "timeMonth": 336,
-    "timeYear": 336,
-    "dailyMinutesDown": {}
+    "time": 368,
+    "timeDay": 602,
+    "timeWeek": 436,
+    "timeMonth": 368,
+    "timeYear": 368,
+    "dailyMinutesDown": {
+      "2022-01-26": 0
+    }
   },
   {
     "name": "NeuroVault",
