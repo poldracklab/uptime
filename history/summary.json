@@ -22,19 +22,19 @@
     "url": "https://cognitiveatlas.org",
     "icon": "https://favicons.githubusercontent.com/cognitiveatlas.org",
     "slug": "cognitive-atlas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 602,
-    "timeWeek": 436,
-    "timeMonth": 368,
-    "timeYear": 368,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 364,
+    "timeDay": 496,
+    "timeWeek": 419,
+    "timeMonth": 364,
+    "timeYear": 364,
     "dailyMinutesDown": {
-      "2022-01-26": 0
+      "2022-01-26": 38
     }
   },
   {
