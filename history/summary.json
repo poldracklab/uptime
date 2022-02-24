@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 280,
-    "timeWeek": 280,
+    "time": 355,
+    "timeDay": 281,
+    "timeWeek": 276,
     "timeMonth": 371,
-    "timeYear": 356,
+    "timeYear": 355,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/cognitiveatlas.org",
     "slug": "cognitive-atlas",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.93%",
-    "time": 358,
-    "timeDay": 147,
-    "timeWeek": 259,
-    "timeMonth": 366,
-    "timeYear": 358,
+    "uptimeYear": "99.94%",
+    "time": 356,
+    "timeDay": 272,
+    "timeWeek": 257,
+    "timeMonth": 365,
+    "timeYear": 356,
     "dailyMinutesDown": {
       "2022-01-26": 38
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2029,
-    "timeDay": 1790,
-    "timeWeek": 1714,
-    "timeMonth": 1996,
-    "timeYear": 2029,
+    "time": 2021,
+    "timeDay": 1728,
+    "timeWeek": 1727,
+    "timeMonth": 1995,
+    "timeYear": 2021,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 273,
-    "timeWeek": 231,
-    "timeMonth": 270,
-    "timeYear": 272,
+    "time": 268,
+    "timeDay": 116,
+    "timeWeek": 209,
+    "timeMonth": 269,
+    "timeYear": 268,
     "dailyMinutesDown": {}
   }
 ]
