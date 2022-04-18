@@ -60,9 +60,9 @@
     "url": "https://expfactory.org",
     "icon": "https://favicons.githubusercontent.com/expfactory.org",
     "slug": "experiment-factory",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 319,
     "timeMonth": 271,
     "timeYear": 275,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-18": 0
+    }
   }
 ]
