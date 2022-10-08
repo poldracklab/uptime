@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 333,
-    "timeWeek": 364,
-    "timeMonth": 418,
-    "timeYear": 385,
+    "time": 386,
+    "timeDay": 585,
+    "timeWeek": 390,
+    "timeMonth": 426,
+    "timeYear": 386,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 416,
-    "timeDay": 398,
-    "timeWeek": 389,
-    "timeMonth": 483,
-    "timeYear": 416,
+    "time": 417,
+    "timeDay": 603,
+    "timeWeek": 410,
+    "timeMonth": 491,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2022-01-26": 38
     }
@@ -44,14 +44,14 @@
     "slug": "neuro-vault",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "95.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 2174,
-    "timeDay": 2098,
-    "timeWeek": 2225,
-    "timeMonth": 3031,
+    "timeDay": 2070,
+    "timeWeek": 2185,
+    "timeMonth": 3037,
     "timeYear": 2174,
     "dailyMinutesDown": {
       "2022-10-06": 58
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 337,
-    "timeDay": 414,
-    "timeWeek": 314,
-    "timeMonth": 373,
-    "timeYear": 337,
+    "time": 338,
+    "timeDay": 493,
+    "timeWeek": 332,
+    "timeMonth": 379,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2022-04-18": 31
     }
