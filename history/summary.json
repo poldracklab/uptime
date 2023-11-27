@@ -4,9 +4,9 @@
     "url": "https://openfmri.org",
     "icon": "https://icons.duckduckgo.com/ip3/openfmri.org.ico",
     "slug": "openf-mri",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
@@ -16,6 +16,7 @@
     "timeMonth": 443,
     "timeYear": 435,
     "dailyMinutesDown": {
+      "2023-11-27": 0,
       "2022-12-05": 1003,
       "2022-12-04": 1440,
       "2022-12-03": 297
