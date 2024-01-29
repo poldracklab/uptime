@@ -45,7 +45,7 @@
     "slug": "neuro-vault",
     "status": "up",
     "uptime": "98.83%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "8.36%",
     "uptimeWeek": "75.01%",
     "uptimeMonth": "92.88%",
     "uptimeYear": "97.73%",
@@ -110,19 +110,19 @@
     "url": "https://deploy.expfactory.org",
     "icon": "https://icons.duckduckgo.com/ip3/deploy.expfactory.org.ico",
     "slug": "experiment-factory-deploy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 440,
-    "timeWeek": 412,
-    "timeMonth": 449,
-    "timeYear": 435,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "91.66%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.90%",
+    "time": 434,
+    "timeDay": 415,
+    "timeWeek": 409,
+    "timeMonth": 447,
+    "timeYear": 434,
     "dailyMinutesDown": {
-      "2024-01-29": 0
+      "2024-01-29": 120
     }
   }
 ]
