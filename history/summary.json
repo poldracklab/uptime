@@ -25,9 +25,9 @@
     "url": "https://cognitiveatlas.org",
     "icon": "https://icons.duckduckgo.com/ip3/cognitiveatlas.org.ico",
     "slug": "cognitive-atlas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 426,
     "timeMonth": 489,
     "timeYear": 470,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-14": 0
+    }
   },
   {
     "name": "NeuroVault",
