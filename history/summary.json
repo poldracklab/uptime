@@ -99,19 +99,19 @@
     "url": "https://expfactory.org",
     "icon": "https://icons.duckduckgo.com/ip3/expfactory.org.ico",
     "slug": "experiment-factory",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 459,
-    "timeWeek": 369,
-    "timeMonth": 394,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.84%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
+    "time": 395,
+    "timeDay": 485,
+    "timeWeek": 387,
+    "timeMonth": 398,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2024-02-16": 0
+      "2024-02-16": 60
     }
   },
   {
