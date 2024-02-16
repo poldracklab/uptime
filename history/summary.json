@@ -49,12 +49,12 @@
     "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.98%",
+    "uptimeMonth": "85.12%",
     "uptimeYear": "97.05%",
     "time": 1946,
     "timeDay": 2022,
     "timeWeek": 1642,
-    "timeMonth": 1809,
+    "timeMonth": 1817,
     "timeYear": 1609,
     "dailyMinutesDown": {
       "2024-02-05": 1084,
@@ -99,18 +99,20 @@
     "url": "https://expfactory.org",
     "icon": "https://icons.duckduckgo.com/ip3/expfactory.org.ico",
     "slug": "experiment-factory",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
+    "time": 394,
     "timeDay": 459,
     "timeWeek": 369,
     "timeMonth": 394,
     "timeYear": 388,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-16": 0
+    }
   },
   {
     "name": "Experiment Factory Deploy",
