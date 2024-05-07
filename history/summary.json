@@ -122,9 +122,9 @@
     "url": "https://deploy.expfactory.org",
     "icon": "https://icons.duckduckgo.com/ip3/deploy.expfactory.org.ico",
     "slug": "experiment-factory-deploy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -134,6 +134,7 @@
     "timeMonth": 442,
     "timeYear": 442,
     "dailyMinutesDown": {
+      "2024-05-07": 0,
       "2024-01-29": 120
     }
   }
