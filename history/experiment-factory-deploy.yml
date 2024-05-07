@@ -1,7 +1,7 @@
 url: https://deploy.expfactory.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-07T17:03:29.185Z
+status: up
+code: 200
+responseTime: 500
+lastUpdated: 2024-05-07T18:04:01.969Z
 startTime: 2023-11-10T21:54:00.142Z
 generator: Upptime <https://github.com/upptime/upptime>
