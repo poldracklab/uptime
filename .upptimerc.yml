@@ -10,8 +10,6 @@ sites:
     url: https://neurovault.org
   - name: Experiment Factory
     url: https://expfactory.org
-  - name: Experiment Factory Deploy
-    url: https://deploy.expfactory.org
 assignees:
   - rwblair
   - effigies
