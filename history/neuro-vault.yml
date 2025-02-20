@@ -1,7 +1,7 @@
 url: https://neurovault.org
-status: down
-code: 500
-responseTime: 672
-lastUpdated: 2025-02-20T20:03:56.466Z
+status: up
+code: 200
+responseTime: 1424
+lastUpdated: 2025-02-20T21:03:43.247Z
 startTime: 2022-01-18T20:42:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
