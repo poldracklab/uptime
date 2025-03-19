@@ -44,7 +44,7 @@
     "url": "https://neurovault.org",
     "icon": "https://icons.duckduckgo.com/ip3/neurovault.org.ico",
     "slug": "neuro-vault",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
     "uptimeDay": "95.82%",
     "uptimeWeek": "99.40%",
@@ -56,6 +56,7 @@
     "timeMonth": 1810,
     "timeYear": 1773,
     "dailyMinutesDown": {
+      "2025-03-19": 0,
       "2025-03-18": 60,
       "2025-02-20": 60,
       "2025-01-09": 59,
