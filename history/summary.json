@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 464,
-    "timeDay": 305,
-    "timeWeek": 530,
-    "timeMonth": 486,
-    "timeYear": 466,
+    "time": 465,
+    "timeDay": 596,
+    "timeWeek": 531,
+    "timeMonth": 497,
+    "timeYear": 468,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 508,
-    "timeDay": 279,
+    "time": 509,
+    "timeDay": 650,
     "timeWeek": 541,
-    "timeMonth": 498,
-    "timeYear": 508,
+    "timeMonth": 510,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2025-02-24": 420
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/neurovault.org.ico",
     "slug": "neuro-vault",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.21%",
-    "time": 2437,
-    "timeDay": 337,
-    "timeWeek": 619,
-    "timeMonth": 583,
-    "timeYear": 2781,
+    "uptimeYear": "99.22%",
+    "time": 2434,
+    "timeDay": 751,
+    "timeWeek": 622,
+    "timeMonth": 597,
+    "timeYear": 2759,
     "dailyMinutesDown": {
       "2025-03-24": 285,
       "2025-03-23": 598,
@@ -65,8 +65,7 @@
       "2025-01-09": 59,
       "2024-11-26": 60,
       "2024-11-18": 300,
-      "2024-09-03": 121,
-      "2024-07-22": 45
+      "2024-09-03": 121
     }
   },
   {
@@ -81,10 +80,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 432,
-    "timeDay": 232,
-    "timeWeek": 480,
-    "timeMonth": 449,
-    "timeYear": 438,
+    "timeDay": 551,
+    "timeWeek": 471,
+    "timeMonth": 459,
+    "timeYear": 439,
     "dailyMinutesDown": {}
   }
 ]
