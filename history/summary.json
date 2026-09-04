@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/openfmri.org.ico",
     "slug": "openf-mri",
     "status": "up",
-    "uptime": "93.93%",
+    "uptime": "93.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.74%",
-    "uptimeYear": "72.72%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "72.99%",
     "time": 428,
-    "timeDay": 478,
-    "timeWeek": 386,
-    "timeMonth": 374,
+    "timeDay": 522,
+    "timeWeek": 403,
+    "timeMonth": 389,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2025-12-10": 1026,
@@ -113,7 +113,6 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
       "2026-08-03": 1009,
       "2026-08-02": 273
     }
@@ -130,9 +129,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 491,
-    "timeDay": 339,
-    "timeWeek": 332,
-    "timeMonth": 487,
+    "timeDay": 458,
+    "timeWeek": 348,
+    "timeMonth": 496,
     "timeYear": 481,
     "dailyMinutesDown": {
       "2025-11-06": 241
@@ -150,9 +149,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.72%",
     "time": 778,
-    "timeDay": 602,
-    "timeWeek": 511,
-    "timeMonth": 417,
+    "timeDay": 726,
+    "timeWeek": 538,
+    "timeMonth": 434,
     "timeYear": 829,
     "dailyMinutesDown": {
       "2025-09-15": 47,
@@ -184,9 +183,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 403,
-    "timeDay": 390,
-    "timeWeek": 335,
-    "timeMonth": 324,
+    "timeDay": 470,
+    "timeWeek": 352,
+    "timeMonth": 336,
     "timeYear": 382,
     "dailyMinutesDown": {}
   }
