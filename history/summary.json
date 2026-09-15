@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.13%",
+    "uptimeYear": "76.15%",
     "time": 428,
     "timeDay": 475,
     "timeWeek": 474,
@@ -113,10 +113,10 @@
     "slug": "cognitive-atlas",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeDay": "91.22%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.93%",
     "time": 490,
     "timeDay": 686,
     "timeWeek": 528,
@@ -124,7 +124,7 @@
     "timeYear": 484,
     "dailyMinutesDown": {
       "2025-11-06": 241,
-      "2026-09-15": 0
+      "2026-09-15": 126
     }
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://expfactory.org",
     "icon": "https://icons.duckduckgo.com/ip3/expfactory.org.ico",
     "slug": "experiment-factory",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -176,6 +176,8 @@
     "timeWeek": 435,
     "timeMonth": 364,
     "timeYear": 383,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-15": 0
+    }
   }
 ]
