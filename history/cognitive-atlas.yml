@@ -1,7 +1,7 @@
 url: https://cognitiveatlas.org
-status: up
-code: 200
-responseTime: 371
-lastUpdated: 2026-09-21T23:07:22.571Z
+status: down
+code: 500
+responseTime: 795
+lastUpdated: 2026-09-22T14:10:49.995Z
 startTime: 2022-01-13T18:06:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
