@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.22%",
+    "uptimeYear": "81.31%",
     "time": 425,
     "timeDay": 608,
     "timeWeek": 392,
@@ -114,17 +114,17 @@
     "url": "https://neurovault.org",
     "icon": "https://icons.duckduckgo.com/ip3/neurovault.org.ico",
     "slug": "neuro-vault",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.89%",
-    "time": 777,
-    "timeDay": 491,
-    "timeWeek": 526,
-    "timeMonth": 572,
-    "timeYear": 780,
+    "time": 781,
+    "timeDay": 1481,
+    "timeWeek": 769,
+    "timeMonth": 636,
+    "timeYear": 784,
     "dailyMinutesDown": {
       "2025-11-03": 965,
       "2025-11-02": 1440,
@@ -138,7 +138,8 @@
       "2026-03-02": 345,
       "2026-04-01": 55,
       "2026-04-06": 52,
-      "2026-05-24": 113
+      "2026-05-24": 113,
+      "2026-10-04": 0
     }
   },
   {
